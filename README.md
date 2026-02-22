@@ -52,7 +52,7 @@ Filter the DataFrame to students where `attended_sessions` is below `expected_se
 
 ### Task 5: Add a derived field and validate it
 
-Create a new column `attendance_ok` that is `True` when `attended_sessions` is at least 5, otherwise `False`. Use a boolean comparison rather than a loop. Then validate the column by confirming that every row in `low_attendance` has `attendance_ok` equal to `False`.
+Create a new column `attendance_ok` that is `True` when `attended_sessions` is at least `expected_sessions`, otherwise `False`. Use a boolean comparison rather than a loop. Then validate the column by confirming that every row in `low_attendance` has `attendance_ok` equal to `False`.
 
 ## Common Pitfalls and Debugging Notes
 
