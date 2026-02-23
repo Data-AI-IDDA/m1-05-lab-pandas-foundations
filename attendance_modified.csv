@@ -1,0 +1,25 @@
+,cohort,attended_sessions,expected_sessions,adjusted_attendance
+S001, alpha ,5,6,6.0
+S002,alpha,6,6,6.0
+S003,beta,4,6,4.0
+S004,BETA,5,6,6.0
+S005,gamma ,2,6,3.0
+S006, gamma,3,6,5.0
+S007,Alpha,6,6,6.0
+S008,beta,1,6,1.0
+S009,gamma,4,6,4.0
+S010,alpha,3,6,3.0
+S011, beta,1,6,1.0
+S012,gamma  ,5,6,6.0
+S013,alpha ,4,6,6.0
+S014,BETA,2,6,2.0
+S015, Gamma,3,6,3.0
+S016, alpha,5,6,5.0
+S017,beta  ,4,6,4.0
+S018,gamma,2,6,2.0
+S019,alpha ,6,6,6.0
+S020,  beta,3,6,3.0
+S021,gamma,1,6,1.0
+S022,alpha  ,4,6,4.0
+S023, beta,5,6,5.0
+S024,  gamma ,6,6,6.0
